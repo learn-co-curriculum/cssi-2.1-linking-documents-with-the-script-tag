@@ -5,26 +5,26 @@ languages: javascript
 ---
 #Linking Documents with the script tag
 After the lesson, you'll be able to:
-+ Save javascript code to a .js file
++ Save JavaScript code to a .js file
 + Use script tags to add js scripts to an html doc
 + Understand the connection between HTML, CSS, and JS as discrete parts of the front end of a web page that work together
 + Understand the concept of Separation of concerns
 
-## Saving and Linking Javascript
+## Saving and Linking JavaScript
 We’ve been using the console to play around and test JavaScript core concepts. What if we want to create JavaScript that we can save for later, or use to add dynamic interaction to our html/css website?
 
-Well, first off, we can save our javascript as a text file with a .js extension. Go ahead and create a `my_script.js` file and open it up in Atom.
+Well, first off, we can save our JavaScript as a text file with a .js extension. Go ahead and create a `my_script.js` file and open it up in Atom.
 
 Let's create a basic program so that we can test that everything is working.
 
 ```
 console.log("Hello, World");
 ```
-Console logging is a way to print strings of text to the javascript console. If we aren't in the console itself, we'll use console.log() to print out strings.
+Console logging is a way to print strings of text to the JavaScript console. If we aren't in the console itself, we'll use console.log() to print out strings.
 
 Save the file in the same directory as the html and css files for your website. Now, how do we run it?
 
-Here is where we bring all three different front end coding languages together. In order for us to link and run the javascript on our html web page, we need to tell the browser where our script is. This is done with the `<script>` element in our html page. Remember when we linked to our .css file yesterday to add style to our .html? We do the same for our .js file by adding the `<script>` element to the `<body>` of our .html doc.
+Here is where we bring all three different front end coding languages together. In order for us to link and run the JavaScript on our html web page, we need to tell the browser where our script is. This is done with the `<script>` element in our html page. Remember when we linked to our .css file yesterday to add style to our .html? We do the same for our .js file by adding the `<script>` element to the `<body>` of our .html doc.
 ```
 ...
 The rest of the html
