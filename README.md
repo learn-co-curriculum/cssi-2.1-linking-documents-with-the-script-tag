@@ -39,4 +39,4 @@ In the early wild west days of the internet, it was common to see HTML, CSS, Jav
 
 Maintaining a separation between html(structure), css(style) and js(logic) docs is referred to as separation of concerns. Keeping different roles separate helps coders on all kinds of projects, on the web or otherwise. Great developers don't just know how to solve problems with code - they keep their projects organized so they are easy to understand later. We'll use best practices from the start, so that you get to practice doing things the 'real' way.
 
-<a href='https://learn.co/lessons/cssi-2.1-linking-documents-with-the-script-tag' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.1-linking-documents-with-the-script-tag' title='Linking Documents with the script tag'>Linking Documents with the script tag</a> on Learn.co and start learning to code for free.</p>
